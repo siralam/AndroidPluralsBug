@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PluralsBugSample</string>
+
+    <plurals name="example">
+        <item quantity="one">1 Lazy Google engineer</item>
+        <item quantity="other">%d Lazy Google engineers</item>
+    </plurals>
+</resources>
